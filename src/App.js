@@ -1,9 +1,9 @@
 import './App.css';
-import Homepage from './components/homepage/homepage.components';
+import Homepage from './pages/homepage/homepage.components';
 
 function App() {
   return (
-    <div >
+    <div>
       <Homepage />
     </div>
   );
